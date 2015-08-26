@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySansWriter", "MySansWriter\MySansWriter.csproj", "{D7A9E1FF-D259-4D67-B73A-33BF94B5AF92}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{A54DFF3A-4793-4845-AE0E-0C11FB7A71D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7A9E1FF-D259-4D67-B73A-33BF94B5AF92}.Debug|x86.ActiveCfg = Debug|x86
+		{D7A9E1FF-D259-4D67-B73A-33BF94B5AF92}.Debug|x86.Build.0 = Debug|x86
+		{D7A9E1FF-D259-4D67-B73A-33BF94B5AF92}.Release|x86.ActiveCfg = Release|x86
+		{D7A9E1FF-D259-4D67-B73A-33BF94B5AF92}.Release|x86.Build.0 = Release|x86
+		{A54DFF3A-4793-4845-AE0E-0C11FB7A71D0}.Debug|x86.ActiveCfg = Debug
+		{A54DFF3A-4793-4845-AE0E-0C11FB7A71D0}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

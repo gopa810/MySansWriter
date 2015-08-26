@@ -1,0 +1,7 @@
+C:\Users\peter.kollath\Documents\Gpsl\MySansWriter\MySansWriter\bin\Release\MySansWriter.exe
+C:\Users\peter.kollath\Documents\Gpsl\MySansWriter\MySansWriter\bin\Release\MySansWriter.pdb
+C:\Users\peter.kollath\Documents\Gpsl\MySansWriter\MySansWriter\obj\x86\Release\MySansWriter.Form1.resources
+C:\Users\peter.kollath\Documents\Gpsl\MySansWriter\MySansWriter\obj\x86\Release\MySansWriter.Properties.Resources.resources
+C:\Users\peter.kollath\Documents\Gpsl\MySansWriter\MySansWriter\obj\x86\Release\MySansWriter.csproj.GenerateResource.Cache
+C:\Users\peter.kollath\Documents\Gpsl\MySansWriter\MySansWriter\obj\x86\Release\MySansWriter.exe
+C:\Users\peter.kollath\Documents\Gpsl\MySansWriter\MySansWriter\obj\x86\Release\MySansWriter.pdb
