@@ -145,7 +145,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:MySansWriter"
         "ProductCode" = "8:{79F6A631-7548-402F-908B-1C9FAFFA8952}"
-        "PackageCode" = "8:{D6F64EB9-A840-4D88-A929-BFB6F51210AF}"
+        "PackageCode" = "8:{FA4CCF9F-7C84-4F17-98FA-31C6EA3D5869}"
         "UpgradeCode" = "8:{12A291BD-12DA-4DBA-AB9F-9791574D91E5}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
